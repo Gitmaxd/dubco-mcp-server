@@ -5,6 +5,10 @@
 
 An MCP server for interacting with the [Dub.co](https://dub.co) link shortener API. This server allows AI agents to create, update, and manage short links through your Dub.co account.
 
+<a href="https://glama.ai/mcp/servers/p293dlsvcn">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/p293dlsvcn/badge" alt="Dub.co Server MCP server" />
+</a>
+
 ## Features
 
 - Create short links with custom slugs
