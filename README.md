@@ -1,7 +1,9 @@
 # Dub.co MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@Gitmaxd/dubco-mcp-server)](https://smithery.ai/server/@Gitmaxd/dubco-mcp-server)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-brightgreen.svg)](https://github.com/modelcontextprotocol)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 An MCP server for interacting with the [Dub.co](https://dub.co) link shortener API. This server allows AI agents to create, update, and manage short links through your Dub.co account.
 
@@ -18,6 +20,14 @@ An MCP server for interacting with the [Dub.co](https://dub.co) link shortener A
 - Automatic domain selection
 
 ## Installation
+
+### Installing via Smithery
+
+To install Dub.co Link Shortener Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Gitmaxd/dubco-mcp-server):
+
+```bash
+npx -y @smithery/cli install @Gitmaxd/dubco-mcp-server --client claude
+```
 
 ### Prerequisites
 
